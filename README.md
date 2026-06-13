@@ -1,14 +1,12 @@
 Hi 👋 My name is Ruchi Shah.
 ============================
 
-Fullstack Software Engineer with 7+ years of enterprise experience in C# backend and Angular frontend development. Recently completed an AI research traineeship at a Finnish AI startup, and currently updating my React skills through the University of Helsinki's Full Stack Open program while actively exploring AI/ML tooling.
-
-I've shipped 40+ production features, led R&D cycles, and published research on voice-based AI interfaces for elderly care. I bring senior engineering discipline with fresh, hands-on AI experience.
+I bring 6+ years of experience as a Software Engineer, 6 month as a Researcher and 6 months in AI product testing. Currently I am updating my React skills through the University of Helsinki's Full Stack Open program while actively exploring AI/ML tooling. I am all about leaning new things, experimenting and growing. I hold a Master's Degree in Information and Communication Technology and has completed my integration training with B1 level in Finnish language.I am looking for a role where I can use my skills in React, AI and Software Engineer.
 
 * 🌍  I'm based in Espoo
 * ✉️  You can contact me at [ruchshah08@gmail.com](mailto:ruchshah08@gmail.com)
-* 🧠  I'm currently learning React
-* 💬  I create content when I am not working on tech.
+* 🧠  I'm currently learning React.
+* 💬  I love travelling and currently I am also creating content on social media.
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
