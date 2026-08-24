@@ -5,7 +5,7 @@ I am a Full-Stack Engineer based in Espoo, Finland, specializing in building rel
 
 * 🌍  I'm based in Espoo
 * ✉️  You can contact me at [ruchshah08@gmail.com](mailto:ruchshah08@gmail.com)
-* 🧠  I'm currently learning Node.js
+* 🧠  I'm currently learning MongoDB
 * 👥  I'm looking to collaborate on interesting projects.
 * 💬  I host supper club and create content when I am not working on tech.
 
