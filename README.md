@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full-Stack Engineer based in Espoo, Finland, specializing in building reliable and scalable web applications. With over 7 years of experience delivering enterprise-grade solutions using C# and Angular, I have contributed to 40+ production features and led a multi-year platform migration end-to-end. I now focus on strengthening my expertise in React and Node.js to build modern, high-performance user interfaces. I help teams modernize legacy systems, accelerate delivery, and ship dependable products with confidence.
 
 * ✉️  You can contact me at [ruchshah08@gmail.com](mailto:ruchshah08@gmail.com)
-* 🧠  I'm currently learning Unit Testing
+* 🧠  I'm currently learning Automated Testing
 * 👥  I'm looking for Full-Stack/Frontend roles.
 * 💬  I host supper club and love travelling.
 
